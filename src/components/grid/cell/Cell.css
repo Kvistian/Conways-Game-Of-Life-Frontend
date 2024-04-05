@@ -1,0 +1,12 @@
+.cell {
+    height: 20px;
+    width: 20px;
+    border: 1px solid #cdcdcd;
+    display: inline-block;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.alive {
+    background-color: #000;
+}
